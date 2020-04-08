@@ -1,0 +1,58 @@
+.container {
+  overflow: hidden;
+
+}
+
+.page {
+  width: 900px;  /* 852 */
+  margin: 0 auto;
+  border: 1px solid #2d3436;
+  overflow: hidden;
+  background-color: #00b894;
+}
+.content {
+  padding: 20px;
+  float: left;
+  width: 650px;
+  height: 500px;
+  background-color: #dfe6e9;
+}
+
+.p1{
+  margin-top: 25px;
+  font-family: candara;
+  color: #2C3A47;
+  text-align: justify;
+
+}
+.home-image {
+  float: left;
+  width: 28%;
+  height: 37%;
+
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+
+.about{
+  font-family: candara;
+  color: #2C3A47;
+  text-align: justify;
+  text-align: center;
+}
+.footer {
+  height: 55px;
+  clear: both;
+  overflow: hidden;
+  background-color: #303952;
+  margin-top: 2%;
+  margin-bottom: 10px;
+  padding: 8px;
+  font-family: candara;
+  text-align: center;
+  font-size: 200%;
+  text-indent: 50px;
+  letter-spacing: 3px;
+  color: #F8EFBA;
+}
